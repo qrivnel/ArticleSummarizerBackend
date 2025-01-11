@@ -21,4 +21,4 @@ This repository contains the **training** and **endpoint** components of the **A
 
 ### 1. Clone the Repository:
 ```bash
-git clone https://github.com/username/ArticleSummarizerTrainAndEndpoint.git
+git clone https://github.com/qrivnel/ArticleSummarizerTrainAndEndpoint.git
